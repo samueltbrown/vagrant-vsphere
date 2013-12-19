@@ -1,3 +1,5 @@
+Forked on 12/19/2013 in order to hardcode gem dependency to rbvmomi 1.6.0.  Last 1.8.0 release of rbvmomi broke this plugin for my team.
+
 # Vagrant vSphere Provider
 
 This is a [Vagrant](http://www.vagrantup.com) 1.2+ plugin that adds a [vSphere](http://pubs.vmware.com/vsphere-50/index.jsp?topic=%2Fcom.vmware.wssdk.apiref.doc_50%2Fright-pane.html)
